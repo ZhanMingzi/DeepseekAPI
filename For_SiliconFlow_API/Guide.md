@@ -6,6 +6,8 @@
 
 硅基流动和华为云联合部署了Deepseek最新的R1 & V3模型，我们可以直接用硅基流动API来使用Deepseek最新模型，且一定程度上避免官方API的卡顿问题。
 
+注册过程中可以填我的邀请码： BVjnIUhC，可以额外多获得2000万token的额度。
+
 ### 1.2 在左侧API Keys标签内找到创建API Key按钮，点击创建APY Key，随意命名你的API Key，然后点击创建，即可得到你的API Key
 
 ![alt text](<Asset/SFlow Get API Key.png>)
@@ -42,3 +44,6 @@
 
 ![alt text](<Asset/Knowledge Database Done.png>)
 
+以下示例是聊天中选择引用知识库来回答问题，其回复中已经引用了知识库中的文章。
+
+![alt text](<Asset/knowledge database using.png>)
